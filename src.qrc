@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/target.bmp</file>
+        <file>image/TSE.bmp</file>
+        <file>image/Wood.bmp</file>
+    </qresource>
+</RCC>
